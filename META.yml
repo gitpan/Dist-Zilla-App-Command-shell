@@ -19,4 +19,4 @@ requires:
 resources:
   homepage: https://github.com/dolmen/p5-Dist-Zilla-App-Command-shell
   repository: https://github.com/dolmen/p5-Dist-Zilla-App-Command-shell.git
-version: 0.001
+version: 0.002
